@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front-End Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, DaisyUI**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, DaisyUI & JavaScript**
 
 - 📫 How to reach me **schisim195@gmail.com**
 
