@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **WordPress Website Design**
 
-- 🤝 I’m looking for help with **my expertise to solve particular problem that small business owner, coaches and fitness trainers face**
+- 🤝 I’m looking for help with **my expertise to solve particular problems that small business owners, coaches and fitness trainers face**
 
 - 👨‍💻 All of my projects are available at [https://example.com](https://example.com)
 
