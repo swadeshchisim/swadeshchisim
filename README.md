@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadeshchisim&label=Profile%20views&color=0e75b6&style=flat" alt="swadeshchisim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swadeshchisim" alt="swadeshchisim" /></a> </p>
-
 - 🔭 I’m currently working as a **Freelance WordPress Developer**
 
 - 🌱 I’m currently learning **Wix | Webflow > Shopify**
