@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swadesh Chisim</h1>
-<h3 align="center">A passionate wordpress website desinger & developer</h3>
+<h3 align="center">A Passionate WordPress Website Desinger & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadeshchisim&label=Profile%20views&color=0e75b6&style=flat" alt="swadeshchisim" /> </p>
 
