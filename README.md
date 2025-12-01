@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **schisim195@gmail.com**
 
-- 📄 Know about my experiences [https://example.com](https://example.com)
+- 📄 Know about my experiences https://swadeshchisim.com
 
 - ⚡ Fun fact **I love playing Guitar 🎸**
 
